@@ -1,0 +1,1 @@
+It usually takes 4 to 6 months to get a divorce if it's 'uncontested' (your husband/wife doesn't defend the divorce).

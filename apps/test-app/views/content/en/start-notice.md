@@ -1,0 +1,1 @@
+Divorces in [Scotland]({{urls.divorceScotland}}) and [Northern Ireland]({{urls.divorceNI}}) are handled by the courts there.

@@ -1,0 +1,35 @@
+{
+  "country": {
+    "legend": "Where do you live?",
+    "hint": "Some advice about the question",
+    "options": {
+      "northern-ireland": {
+        "label": "Northern Ireland"
+      },
+      "scotland": {
+        "label": "Scotland"
+      },
+      "england": {
+        "label": "England"
+      },
+      "wales": {
+        "label": "Wales"
+      }
+    }
+  },
+  "firstName": {
+    "label": "First name(s)",
+    "hint": "Include all middle names here",
+    "validation": {
+      "required": "First name is not allowed to be empty",
+      "alphanum": "First name must only contain alpha-numeric characters"
+    }
+  },
+  "lastName": {
+    "label": "Last name(s)",
+    "validation": {
+      "required": "Your name can only contain the letters a to z, spaces, hyphens and apostrophes",
+      "alphanum": "Your name must only contain alpha-numeric characters"
+    }
+  }
+}

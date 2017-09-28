@@ -1,0 +1,20 @@
+{
+  "start": {
+    "header": "Apply for Divorce"
+  },
+  "country": {
+    "header": "Where do you live?"
+  },
+  "name": {
+    "header": "What is your name?"
+  },
+  "exit": {
+    "yourRefNumber": "Your reference number is"
+  },
+  "exit-northern-ireland": {
+    "header": "You can't use this service"
+  },
+  "hello-world": {
+    "header": "Hello World"
+  }
+}
